@@ -1,1 +1,2 @@
-# GSoC_2020_MinorityMessagesAndDemocrats-
+# GSoC_2020_MinorityMessagesAndDemocrats:
+The 2020 Google Summer of Code project "Understanding the Use of Racial, Gender, and Sexual Minority Social Media Messages by Democratic Politicians and their Electoral Implications" is contributed by Henry Smith with [Red Hen Lab](http://www.redhenlab.org/). Work on the project is completed under the mentorship of [Dr. Jungeock Joo](http://home.jsjoo.com/) and [Sumit Vohra](https://in.linkedin.com/in/sumit-vohra-224484a0).
