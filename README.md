@@ -2,7 +2,7 @@
 
   The 2020 Google Summer of Code project "Understanding the Use of Racial, Gender, and Sexual Minority Social Media Messages by Democratic Politicians and their Electoral Implications" is contributed by Henry Smith with [Red Hen Lab](http://www.redhenlab.org/). Work on the project is completed under the mentorship of [Dr. Jungeock Joo](http://home.jsjoo.com/) and [Sumit Vohra](https://in.linkedin.com/in/sumit-vohra-224484a0).
 
-## Project Overview:
+## Project Background and Motivation:
 
   The importance of minority voters is not new to the Democratic party: a 2017 poll of registered voters by the Pew Research Institute of U.S. Politics and Policy estimated that only fifty-nine percent of self-identified Democrats/lean Democrats label themselves as white, compared to the eighty-nine percent of Republicans/lean Republicans. This figure is down from an estimated sixty-seven percent in 2007 and seventy-five percent in 1997. The same report approximates that black voters  constitute nineteen percent of this Democratic base, Hispanic voters twelve percent, and Asian/other racial minorities constitute ten percent [6]. 
 
