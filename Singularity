@@ -3,7 +3,6 @@ From:ubuntu:latest
 
 %labels
 MAINTAINER Henry
-SPECIES Panther
 
 %environment
 RAWR_BASE=/code
