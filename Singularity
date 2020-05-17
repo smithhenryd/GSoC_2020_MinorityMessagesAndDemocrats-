@@ -2,7 +2,7 @@ Bootstrap:docker
 From:ubuntu:latest  
 
 %labels
-MAINTAINER Henry
+MAINTAINER smithhenryd
 
 %environment
 RAWR_BASE=/code
