@@ -2,7 +2,18 @@
 
   The 2020 Google Summer of Code project "Understanding the Use of Racial, Gender, and Sexual Minority Social Media Messages by Democratic Politicians and their Electoral Implications" is contributed by Henry Smith with [Red Hen Lab](http://www.redhenlab.org/). Work on the project is completed under the mentorship of [Dr. Jungeock Joo](http://home.jsjoo.com/) and [Sumit Vohra](https://in.linkedin.com/in/sumit-vohra-224484a0).
 
-## Project Background and Motivation:
+## GSOC 2020 Blog:
+
+Detailed weekly updates during summer 2020 can be found at the project's [blog page](https://smithhenryd.github.io/MinorityMessagesAndDemocrats.github.io/).
+
+## Project Directory:
+
+- [electoral_outcomes_data](https://github.com/smithhenryd/GSoC_2020_MinorityMessagesAndDemocrats-/tree/master/electoral_outcomes_data) includes data collected from [Ballotpedia](https://ballotpedia.org/Election_results,_2018) summarizing 2018 U.S. midterm election outcomes. The current data details primary and general election outcomes in racially and ethnically diverse congressional districts, measured by the proportion of individuals that identify as people of color (POC).
+
+- [imgs_data](https://github.com/smithhenryd/GSoC_2020_MinorityMessagesAndDemocrats-/tree/master/imgs_data) contains information pertaining to the 2018 Facebook images dataset collected by Dr. Jungseock Joo and his colleagues. The dataset consists of images shared on Facebook from January 1 - November 5, 2018 by U.S. politicians who competed for the U.S. House, Senate, and state governorships during the 2018 general election.
+
+
+## Background and Motivation:
 
   The importance of minority voters is not new to the Democratic party: a 2017 poll of registered voters by the Pew Research Institute of U.S. Politics and Policy estimated that only fifty-nine percent of self-identified Democrats/lean Democrats label themselves as white, compared to the eighty-nine percent of Republicans/lean Republicans. This figure is down from an estimated sixty-seven percent in 2007 and seventy-five percent in 1997. The same report approximates that black voters  constitute nineteen percent of this Democratic base, Hispanic voters twelve percent, and Asian/other racial minorities constitute ten percent [6]. 
 
