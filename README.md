@@ -8,6 +8,8 @@ Detailed weekly updates during summer 2020 can be found at the project's [blog p
 
 ## Project Directory:
 
+- [background](https://github.com/smithhenryd/GSoC_2020_MinorityMessagesAndDemocrats-/tree/master/background) details preliminary information relevant to the research project and topic. This folder currently contains the original proposal as well as a brief summary of related political science research.
+
 - [electoral_outcomes_data](https://github.com/smithhenryd/GSoC_2020_MinorityMessagesAndDemocrats-/tree/master/electoral_outcomes_data) includes data collected from [Ballotpedia](https://ballotpedia.org/Election_results,_2018) summarizing 2018 U.S. midterm election outcomes. The current data details primary and general election outcomes in racially and ethnically diverse congressional districts, measured by the proportion of individuals that identify as people of color (POC).
 
 - [imgs_data](https://github.com/smithhenryd/GSoC_2020_MinorityMessagesAndDemocrats-/tree/master/imgs_data) contains information pertaining to the 2018 Facebook images dataset collected by Dr. Jungseock Joo and his colleagues. The dataset consists of images shared on Facebook from January 1 - November 5, 2018 by U.S. politicians who competed for the U.S. House, Senate, and state governorships during the 2018 general election.
