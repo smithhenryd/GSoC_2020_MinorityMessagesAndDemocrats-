@@ -1,6 +1,6 @@
 # GSoC_2020_UnderrepresentedMessagesAndDemocrats:
 
-  The 2020 Google Summer of Code project "Understanding Messages to Underrepresented Racial, Ethnic, Gender, and Sexual Groups on Social Media by Democratic Politicians and their Electoral Implications" is contributed by Henry Smith with [Red Hen Lab](http://www.redhenlab.org/). Work on the project is completed under the mentorship of [Dr. Jungeock Joo](http://home.jsjoo.com/) and [Dr. Kunwoo Park](http://kunwpark.kr/).
+  The 2020 Google Summer of Code project "Understanding Messages to Underrepresented Racial, Ethnic, Gender, and Sexual Groups on Social Media by Democratic Politicians and their Electoral Implications" is contributed by Henry Smith with [Red Hen Lab](http://www.redhenlab.org/). Work on the project is completed under the mentorship of [Dr. Jungeock Joo](http://home.jsjoo.com/) and [Dr. Kunwoo Park](https://bywords.github.io/).
 
 ## GSOC 2020 Blog:
 
